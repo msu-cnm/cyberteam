@@ -1,1 +1,1 @@
-# MSU CyberTeam Resources
+# MSU Cyber Team Resources
