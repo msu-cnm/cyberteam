@@ -13,7 +13,9 @@
   - `usermod -a -G <groupName> <userName>` - add
   - `deluser <user> <group>` - remove
 - View Groups a User is In
-  - `groups <userName>`
+  - `getent user <userName>`
+- View what users are in a group
+  - `getent group <groupName>`
 
 ## Passwords
 
