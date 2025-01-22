@@ -16,6 +16,8 @@
   - `groups <userName>`
 - View what users are in a group
   - `getent group <groupName>`
+- Lock a user account
+  - `usermod -L <userName>`
 
 ## Passwords
 
